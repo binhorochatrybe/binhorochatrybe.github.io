@@ -19,7 +19,15 @@ p {
 ul {
     color: #f0ebd8;
 }
-#link1 {
-    background-color: red;
-    color: black;
+.button {
+    background-color: #f0ebd8;
+    padding: 9px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color: darkred;
+}
+#foto {
+    padding-top: 20px;
 }
